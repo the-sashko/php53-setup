@@ -9,5 +9,5 @@ build and run docker image `sh buils.sh`
 up contaner - `docker start php53setup`
 down contaner - `docker stop php53setup`
 # Also
-Your virual hosts on host machine must exist (or have simlinks) in /var/www. You can change this by editing `build.sh` file
+Your virual hosts on host machine must exist (or have simlinks) in `/var/www`. You can change this by editing `build.sh` file
 You can set up virtual hosts by editing `config/host.conf` file.
