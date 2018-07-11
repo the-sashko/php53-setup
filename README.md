@@ -1,6 +1,6 @@
 # php53-setup
 Docker image for develop with apache & php 5.3.
-Container have:
+Imahe contain:
 + Ubuntu 12.04
 + Apache2
 + PHP 5.3
